@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Permisos</string>
+    <string name="camara">Peticion camara</string>
+    <string name="llamada">Peticion llamada</string>
+</resources>
